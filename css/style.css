@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@600&display=swap');
 body {
   font-family: Noto Sans, sans-serif;
-  background-color: #F0F8FF;
+  background-color: #88c6fc;
 }
 
 header {
-  background-color: #000000;
+  background-color: #0c0260;
   color: #00ffaa43;
   padding: 10px;
   text-align: center;
