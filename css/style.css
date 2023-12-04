@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@600&display=swap');
 body {
   font-family: "Noto Sans";
+  text-align: center;
   background-color: #88c6fc;
 }
 
@@ -51,7 +52,7 @@ h2 {
 }
 
 h1, h2, h3 {
-  font-family: 'Allura', cursive;
+  font-family: 'DejaVu Sans Mono', monospace;
   color: #440B11;
   position: relative;
   text-align: center;
