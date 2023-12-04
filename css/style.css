@@ -51,6 +51,13 @@ h2 {
   font-family: Gabarito;
 }
 
+h1, h2, h3 {
+  font-family: 'Allura', cursive;
+  color: #440B11;
+  position: relative;
+  text-align: center;
+  font-size: 2em;
+
 p {
   margin: 10px 0;
 }
